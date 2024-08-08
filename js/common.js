@@ -1,5 +1,5 @@
 window.basic = {
-    "title": "강인규 ❤️권한희 결혼합니다",
+    "title": "강인규❤️권한희 결혼합니다",
     "groom": {
         "name": "강인규",
         "first_name": "인규",
