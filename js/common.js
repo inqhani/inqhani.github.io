@@ -65,7 +65,7 @@ window.basic = {
         "description":"2024.10.19.(토) 낮 12:00 티웨딩 투게더홀",
         "greeting": "서로 예쁘게 어울리며 피어오른 코스모스가 반기는 가을날,<br>저희도 서로에게 어울려 평생을 약속하려고 합니다.<br>서로의 힘이 되어 더 예쁘게 피어날 수 있도록<br>사랑하고 배려하며 살겠습니다.",
         "wedding_date": "2024.10.19 토요일 낮 12:00",
-        "wedding_location": "천안 티웨딩 투게더홀",
+        "wedding_location": "티웨딩 천안 투게더홀",
         "wedding_address": "충청남도 천안시 동남구 목천읍 응원3길 27 (응원리 67-1)"
     }
 }
@@ -456,7 +456,7 @@ function copyAccount(val){
             break;
         case 'groom-mother':
             account=window.basic.groom.parents.mother.account;
-            name=window.basic.groom.parents.mother.name;
+            name=window.basic.groom.parents.mother.name+"(심언년)";
             bank=window.basic.groom.parents.mother.bank;
             break;
         case 'bride':
