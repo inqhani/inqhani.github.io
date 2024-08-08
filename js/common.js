@@ -51,7 +51,7 @@ window.basic = {
     },
     "location": {
         "name": "티웨딩 천안",
-        "address": "대전광역시 유성구 테크노중앙로 161 호텔 스카이파크 1층",
+        "address": "충청남도 천안시 동남구 목천읍 응원3길 27",
         "x": "36.4246584",
         "y": "127.3979372"
     },
@@ -59,11 +59,11 @@ window.basic = {
     "kakao": {
         "description": "2024.10.19. 토요일 낮 12:00\n티웨딩 천안 투게더홀",
         "button": "모바일 청첩장 보기",
-        "img": "https://lh3.googleusercontent.com/fife/ALs6j_HHzozftbO5zqVlisebKyRhr3eHrGiBaYfrjRGSn2GAlS6AhsEEjotGjEUMMaJsfeXHtGajbATaK3ToemfZ5uDeJ1553Sq90MGznuXZGu-UPD8CRgat7Qot9mDExAYuURPJib4jtG3HJAf-wii7VOtprr3AQdyP2XS-SIPzJoVl19UW3aedDqE9Z4-urwW4dgjQ-aCtEQ_-Ypydn5lsZVyGtfge3esuCYc6blbZnadKLtZGVDRoIW2cNeYKuOrnLIdJwSzVxvLYXatr2wGRE6vtdCpCp-y2X-U0cW_a8-CuHqweKmUVSP5QAkt0kZckepFhXPB5Q9GSKmWjxoZaMMbbYUb4KWg5x2BRD252zn1524akLWAvSmqbdCJ6tG5x_djcT0UwFPlz2mFv5X_XL864HjXkKq5N0tuLneC9_D5HFSDZKGRw6f4T142JnYEJr6aa_MlPB6qTFGPj65Q-8bBG0AgFQVntxAn9-THDgGU0WV6vOVpLn9WOvrmZNPXYBH_2Hmn1dVrwWSYydJpaYVv4D9-gcf3GjvvQDUAXGuDYaUs5xWUnve8yOtMRtyMgHlbiKqekewIpZSuQZo2WR-xVTfDIg8VE8-4ydh2z5evKbYyMRUpVeVu4vzv5L-bou14eH9HDMAN0kAo55Myg1eVsTkeNAaKOi_MTnC-8JbTYyd5OaHaxCwgSjDbWcUBmoBX7d3QdGonCJqUP8Gsl73ADz_FNyYeLKNQTx35dfBqf7CBd5I7DR8t-0P0CoCrb4sUKncPWbxOAi7ZvMw8D6B4nEe5XkgaraJ0LUQ_NTBt00ae8mXUd7adsv5voNRxrpfrCJjBgCMlZEoxwdP0K2iSrCx3xyylq-Myl7cj9L4CpV2ltM0kCOEoI8uRr59VjcK4O1BkNxQERCDhABS0Q2AeRLXJ8L3EP3ApjNnB4PbZNjvhBN0XeXScvpJvOdlyQvlOha97RQQhlsY3_t6jp1Wn9jK7aEYgUlsv-smAe-2WWU6DMJ9vCHzlKawv8WRKjVpectxm0YKttW-wZjlZpcJngGENAMiWAhC8kwE6NLW53WmXoFgZHXzpwVO0nUHKvDwT5t-0VfXdHuSSOt9Q7oGEylMrOJG3x-U2_nIYsntPpNosVkRCbDTyyXjeBWeoVzBMk18r6PoU22fc6zQRlXNeBHgxka1Nd2o25Ge3zj-2q_KgJWiZ9kF2V_Cz-h0hI1fC2P38yc9vI5r6BSbe0ZcUiCWWF53fWH93fXi2W1NXrZaLun2WO59IyWPAlHkMZPS86-xr9VxUJIsKCO7URanfQtqK6Qj4WwfeWLUEE2PTYl4rwuRvV9Tiu0qmUaV5q1CAfYQbKVLncdSGkca1mo3M-RZEyAhvbM9i50KyopgojNaSE3oxBByJz-IbmLxjr8Un4XQDLyuFuRWizkJ8UoLBepGZNiRx-yAKNL2aQIdJA0ojzq_0zSoPDc-Vg5y7MmXrhArVxPsLUoymo5XxJwtkqu7CO_CWJQsdzBxqcsFWogC7iD5ZHOeSMOgoqJQKaYeSwqiFZSVQnAV59jVhxkx-lpXoE1nFsETROBI_PmoUgMfqSzfLzTKh_3KLWsap_a1s_xYng-RmSLzRqm84zKN5iHkXSOiRLuL7Tp9qlJRRfdekZ85Z0=w3120-h2656"
+        "img": "https://lh3.googleusercontent.com/fife/ALs6j_HW2KL4PgZmnj-qQFbFX5rYUWJi6deyis6u3v6RnnMzCgtIODXYdNPHJuOdxNfMusCuomH33gzZqGyoAoUosMxJklVU5z9mKCQay_M8kaf_pZ5WBC4XUTnN5T7-YuUINrAoKyZ9YELBSxw_7N7eKUxQUi3rgfVD6zUWy45VHjzTTjS0mjSQGtBWvI597tOaAb0l9X2FRN0NPcsG-ZBOfPZe6ixu0y8TlcVZI74yvHEDNBjRe4nTD-pOtEmm02_SjjDZUZUoG7ORCkdahBIOFrd_FMRjj2V9v0tgBrWO26CcRm-Y-9OsN5XnCWiDGCTMu09wruI2aQqHrqFJ9PN_cArP0g_8Dm5N-boxHAeL39IphQ_GLwSBM2urbftf4SbPep-AEwyxYhVmgFIz_vMPhKjRhTZF5nsOhGYXLwyEBAbiuwjHjXmvDSTSUnSrXt7z4K-FucwoYIktUlfl9W78GUYtXICcSW2S_qGrq4X1dS7EbJvHkAHQVCGozMnIVh9OaMEcBrM8c4STN_Kbx87e22oZ29P3UND0PqhzZJrIKfBgW85SlMnK4Bo3sqJXi9iwrW3x1mJVCcb1fLX0qWs6KXDNnIQXNs6m15LurB6hr6Qfxe5Lau_zAOAJ4qgT1prMaRrY1RHRAZRj4epjXtcSrPclEXYW_O006s4iBFQ-EXcsU1ZT_AJP6e485rcVWS1E01B0eosDvj2JA60o70O2cAiiVyPJ-cDNXX89wjunJuANcUuWNH6EyRXVLMbmWNTj1l3iWAzDcfr2bsqMw3F2wr_6ICNLygrKcen8cS0CqF0tsvtgJZ2MoDe69ry5Smd4pADAUk5vzm6FcfpwbS0OXSqOZafMKap7tzmIhPtK5Lpgf6bWSPAaiZ2V9tB-xpYdPWxRH4z2XqenFFImbHPwG7oilQpr1OiTKB3Vyow9AHfZLM9CabgBwoMlgSCEctjKAs7_WEf4DaqArZqylwcQvaPbwZiiiFAx9BbKIhBoL69aC4YHUby5kkzAtoQJ-LvKZmA8gf1ODeaqEdJ4tktcAGfy9VSkmOjoqw_RXbhXp4Lb1mwdonsNs03xKoxaosbD1fEbgzPxgJr2HIf5tTOdalDd1vyP9XdxUgjH9DaznFnGiCdNm9hIfoqEhJp_3ti9v-P4S3Ptlg9oMI_cjtpqbwvN-RW83sXs-BkxLQ3JVQysmby1BzolfZ8olNHRcOsw1ATIRqT_31X7WbMqHh4UD2KzWSz7UrFGCGWKFmVrYKfYBF_ZFR7zCfsSqwQl_A1kF7PCNxqAYWEQXJmSRmbNaK-jQPSaIAZQSXD_II5oQTHMXyIiLoVqkvmI04fHUjn9LJ3xsTQK6bcI2--WttZLBg8wS6XaMr-3Y_pSKcohK7CSMQHvWV-92HX7InVXDGk9zDiTV2PA2suPZhefqY7MdTYTkiL0KddkcLHvT9dp6F9sxCqBZIs5YUVRcYdHugHOJ25abKhevcz_PMJa9EBj0cN6jy5vQFkOvThawWpQ61PitfRPwVG6PKhFfBmvTSfSGLwLXGw3KsJ5wQlxTVII0QdKMapXwFfuKt9fp7TWPO_7f5otkI-dUrqJRD5Hm-oKhutn-4a6RM7JVeWheyQ9mw=w1766-h1544"
     },
     "info": {
         "description":"2024.10.19.(토) 낮 12:00 티웨딩 투게더홀",
-        "greeting": "",
+        "greeting": "서로 예쁘게 어울리며 피어오른 코스모스가 반기는 가을날,<br>저희도 서로에게 어울려 평생을<br>약속하려고 합니다.<br>서로의 힘이 되어 더 예쁘게 피어날 수 있도록 사랑하고 배려하며 살겠습니다.",
         "wedding_date": "2024.10.19 토요일 낮 12:00",
         "wedding_location": "천안 티웨딩 투게더홀",
         "wedding_address": "충청남도 천안시 동남구 목천읍 응원3길 27 ( 응원리 67-1 )"
@@ -436,7 +436,7 @@ function copyLink(){
 
     let url = window.document.location.href;
     copyToClipboard(url);
-    alert('석범♥세희 청첩장 주소가 복사되었습니다.');
+    alert('인규♥한희 청첩장 주소가 복사되었습니다.');
 }
 
 function copyAccount(val){
