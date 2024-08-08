@@ -149,10 +149,10 @@ $(document).ready(function (){
     $('#map-popup').magnificPopup({
         items: [
             {
-                src: './img/map/map1.pdf'
+                src: './img/map/map1.jpg'
             },
             {
-                src: './img/map/map2.pdf'
+                src: './img/map/map2.jpg'
             }
         ],
         gallery: {
