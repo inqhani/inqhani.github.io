@@ -52,8 +52,8 @@ window.basic = {
     "location": {
         "name": "티웨딩 천안",
         "address": "충청남도 천안시 동남구 목천읍 응원3길 27",
-        "x": "127.1879854",
-        "y": "36.7698328"
+        "x": "36.7698328",
+        "y": "127.1879854"
     },
     "link": "https://inqhani.github.io/",
     "kakao": {
