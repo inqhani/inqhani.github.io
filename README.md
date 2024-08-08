@@ -7,4 +7,4 @@
 * 주소 : 충청남도 천안시 동남구 목천읍 응원3길 27
 
 ### Wedding Invitation
-![Main](./img/gallery/37.jpg)
+![Main](./img/gallery/7.jpg)
