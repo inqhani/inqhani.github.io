@@ -71,10 +71,10 @@ window.basic = {
 }
 let scrollTop;
 const holidays = [];
-const numOfImages = 46;
+const numOfImages = 10;
 const basicNumbers = 9;
-const excludeNumbers = [22,31,46];
-const excludeNumbers2 = [2,];
+const excludeNumbers = [];
+const excludeNumbers2 = [];
 
 $(document).ready(function (){
 
