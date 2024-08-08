@@ -1,6 +1,13 @@
 @charset "utf-8";
 
 @font-face {
+    font-family: 'NanumSquareRound';
+    src: url(../font/NanumSquareNeo/NanumSquareRoundR.eot);
+    src:url(../font/NanumSquareNeo/NanumSquareRoundR.woff) format('woff');
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'NanumSquareNeo';
     src: url(../font/NanumSquareNeo/NanumSquareNeo-Variable.eot);
     src:url(../font/NanumSquareNeo/NanumSquareNeo-Variable.woff) format('woff');
@@ -16,7 +23,7 @@
 
 
 body {
-    font-family: 'NanumSquareNeo', 'IropkeBatangM','Malgun Gothic','맑은 고딕','돋움',Dotum,'굴림',Gulim,Helvetica,sans-serif !important;
+    font-family: 'NanumSquareRound', 'NanumSquareNeo', 'IropkeBatangM','Malgun Gothic','맑은 고딕','돋움',Dotum,'굴림',Gulim,Helvetica,sans-serif !important;
     font-width: 400;
     overflow-x: hidden;
     overflow-y: auto;
