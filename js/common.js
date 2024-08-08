@@ -4,8 +4,8 @@ window.basic = {
         "name": "강인규",
         "first_name": "인규",
         "phone": "01072207871",
-        "bank": "하나",
-        "account": "하나 ",
+        "bank": "국민",
+        "account": "국민 701401-01-474308",
         "parents": {
             "father": {
                 "name": "강병호",
