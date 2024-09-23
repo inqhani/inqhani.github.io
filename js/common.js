@@ -49,6 +49,10 @@ window.basic = {
         "hour": "12",
         "minute": "00"
     },
+    "honeymoon":{
+        "location": "파리 & 스위스 & 바르셀로나",
+        "days": 14
+    },
     "location": {
         "name": "티웨딩 천안",
         "address": "충청남도 천안시 동남구 목천읍 응원3길 27",
@@ -177,7 +181,7 @@ $(document).ready(function (){
     });
 
     drawCalendar(window.basic.date);
-    loadCountdown(window.basic.date);
+    loadCountdown(window.basic.date,window.basic.honeymoon);
 
     getKakaoMap(window.basic.location);
 
@@ -314,14 +318,43 @@ function drawCalendar(date) {
     calendarContainer.innerHTML = calendarHTML;
 }
 
-function loadCountdown(date){
+function loadCountdown(date,honeymoon){
 
     const wTime = new Date(date.year,parseInt(date.month)-1,date.day,date.hour, date.minute);
     const wDay = new Date(date.year,parseInt(date.month)-1,parseInt(date.day)+1,date.hour, date.minute);
 
-    $('#date-countdown').countdown({ until: wTime, timezone: +9 });//format: 'dHMS', compact: true,
-    $('#dday-countdown').countdown({ until: wDay, format: 'dHMS', compact: true, layout: '{dn}', timezone: +9 });
+    const currentDate = new Date();
+    currentDate.setHours(0, 0, 0, 0);
 
+    const wDate = wDay;
+    wDate.setDate(wDay.getDate() - 1);
+    wDate.setHours(0, 0, 0, 0);
+
+    if(currentDate <= wDate) {
+        $('#date-countdown').countdown({until: wTime, timezone: +9});//format: 'dHMS', compact: true,
+        $('#dday-countdown').countdown({until: wDate, format: 'd', compact: true, layout: '{dn}', timezone: +9});
+        $('#countdown-text1').html('결혼식이');
+        let wTxt = '남았습니다.';
+        if (currentDate.getTime() === wDate.getTime()) {
+            wTxt +='<br><br>오셔서 지켜봐 주시고 축하해 주세요!';
+        }
+        $('#countdown-text2').html(wTxt);
+
+    }else{
+        const honeymoonDate = wDate;
+        honeymoonDate.setDate(wDate.getDate() + (honeymoon.days));
+        honeymoonDate.setHours(0, 0, 0, 0);
+
+        $('#date-countdown').countdown({ since: wTime, timezone: +9 });//format: 'dHMS', compact: true,
+        $('#dday-countdown').countdown({ since: wTime, format: 'd', compact: true, layout: '{dn}', timezone: +9 });
+        $('#countdown-text1').html('결혼한 지');
+        let wTxt = '되었습니다.';
+
+        if(currentDate <= honeymoonDate){
+            wTxt +='<br><br>'+honeymoon.location+'에서 행복한 시간을 보내고 있습니다!';
+        }
+        $('#countdown-text2').html(wTxt);
+    }
 }
 
 function getKakaoMap(location){

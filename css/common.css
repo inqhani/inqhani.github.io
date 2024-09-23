@@ -32,6 +32,33 @@ body {
     color: #544f4f;
 }
 
+.mfp-bg{
+    z-index:2000;
+    -webkit-transform: translateZ(0);
+}
+
+.mfp-wrap {
+    z-index: 2001;
+}
+
+.mfp-content {
+    z-index: 2003;
+}
+
+.mfp-preloader {
+    z-index: 2002;
+}
+
+button.mfp-close, button.mfp-arrow {
+    z-index: 2003;
+}
+
+body.mfp-zoom-out-cur {
+    overflow: hidden;
+    touch-action: none;
+    -webkit-overflow-scrolling: auto;
+}
+
 .no-drag{
     -ms-user-select: none;
     -moz-user-select: -moz-none;
@@ -265,9 +292,9 @@ a, a:hover, a:active, a:focus {
     color: #89757a;
     border-radius: 8px;
     height: 70px;
-    margin: 0 20px;
+    min-width: 200px;
 }
-.countdown-show4 .countdown-section {
+.countdown-section {
     line-height: 25px;
     padding-top: 10px;
     width: 24.5%;
